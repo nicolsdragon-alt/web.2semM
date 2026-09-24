@@ -1,3 +1,8 @@
+/*
+Nome: nicolas H. makiyama
+RGM: 26110225
+*/
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -10,7 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f9;
+    background-color: sw#e42424;
 }
 
 .calculator-card {

@@ -1,3 +1,6 @@
+// Nome: nicolas H. Makiyama
+// RGM: 26110225
+
 const formulario = document.getElementById("calcform")
 
 formulario.addEventListener("submit", function (e){
